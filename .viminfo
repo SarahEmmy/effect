@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1698339661,,"wq"
+|2,0,1698341265,,"wq"
 :set number
 |2,0,1698077770,,"set number"
 :q
@@ -96,36 +96,50 @@ $
 |3,0,36,0,1,0,1689017366,"s"
 
 # File marks:
-'0  117  0  ~/AirBnB_clone_v3/README.md
-|4,48,117,0,1698339661,"~/AirBnB_clone_v3/README.md"
-'1  39  12  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
-|4,49,39,12,1698077838,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
-'2  1  0  ~/alx-system_engineering-devops/0x15-api/README.md
-|4,50,1,0,1698061678,"~/alx-system_engineering-devops/0x15-api/README.md"
-'3  1  49  ~/alx-system_engineering-devops/0x15-api/README.md
-|4,51,1,49,1698056547,"~/alx-system_engineering-devops/0x15-api/README.md"
-'4  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
-|4,52,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
-'5  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,53,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
-'6  7  24  ~/AirBnB_clone_v2/web_flask/2-c_route.py
-|4,54,7,24,1697806790,"~/AirBnB_clone_v2/web_flask/2-c_route.py"
-'7  7  24  ~/AirBnB_clone_v2/web_flask/1-hbnb_route.py
-|4,55,7,24,1697806330,"~/AirBnB_clone_v2/web_flask/1-hbnb_route.py"
-'8  1  0  ~/AirBnB_clone_v2/web_flask/1-hbnb_route.pycd
-|4,56,1,0,1697806288,"~/AirBnB_clone_v2/web_flask/1-hbnb_route.pycd"
-'9  18  3  ~/AirBnB_clone_v2/web_flask/1-hbnb_route.py
-|4,57,18,3,1697806010,"~/AirBnB_clone_v2/web_flask/1-hbnb_route.py"
+'0  1  65  ~/.git/MERGE_MSG
+|4,48,1,65,1698341265,"~/.git/MERGE_MSG"
+'1  117  0  ~/AirBnB_clone_v3/README.md
+|4,49,117,0,1698339661,"~/AirBnB_clone_v3/README.md"
+'2  39  12  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
+|4,50,39,12,1698077838,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
+'3  1  0  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,51,1,0,1698061678,"~/alx-system_engineering-devops/0x15-api/README.md"
+'4  1  49  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,52,1,49,1698056547,"~/alx-system_engineering-devops/0x15-api/README.md"
+'5  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,53,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+'6  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
+|4,54,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
+'7  7  24  ~/AirBnB_clone_v2/web_flask/2-c_route.py
+|4,55,7,24,1697806790,"~/AirBnB_clone_v2/web_flask/2-c_route.py"
+'8  7  24  ~/AirBnB_clone_v2/web_flask/1-hbnb_route.py
+|4,56,7,24,1697806330,"~/AirBnB_clone_v2/web_flask/1-hbnb_route.py"
+'9  1  0  ~/AirBnB_clone_v2/web_flask/1-hbnb_route.pycd
+|4,57,1,0,1697806288,"~/AirBnB_clone_v2/web_flask/1-hbnb_route.pycd"
 
 # Jumplist (newest first):
+-'  1  65  ~/.git/MERGE_MSG
+|4,39,1,65,1698341265,"~/.git/MERGE_MSG"
 -'  117  0  ~/AirBnB_clone_v3/README.md
 |4,39,117,0,1698339661,"~/AirBnB_clone_v3/README.md"
+-'  117  0  ~/AirBnB_clone_v3/README.md
+|4,39,117,0,1698339661,"~/AirBnB_clone_v3/README.md"
+-'  1  0  ~/AirBnB_clone_v3/README.md
+|4,39,1,0,1698339348,"~/AirBnB_clone_v3/README.md"
 -'  1  0  ~/AirBnB_clone_v3/README.md
 |4,39,1,0,1698339348,"~/AirBnB_clone_v3/README.md"
 -'  39  12  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
 |4,39,39,12,1698077838,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
 -'  39  12  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
 |4,39,39,12,1698077838,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
+-'  39  12  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
+|4,39,39,12,1698077838,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
+-'  39  12  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
+|4,39,39,12,1698077838,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
+-'  1  0  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
+|4,39,1,0,1698077764,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
+-'  1  0  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
+|4,39,1,0,1698077764,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
 -'  1  0  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
 |4,39,1,0,1698077764,"~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py"
 -'  1  0  ~/alx-system_engineering-devops/0x15-api/0-gather_data_from_an_API.py
@@ -138,6 +152,22 @@ $
 |4,39,1,0,1698061678,"~/alx-system_engineering-devops/0x15-api/README.md"
 -'  1  0  ~/alx-system_engineering-devops/0x15-api/README.md
 |4,39,1,0,1698061678,"~/alx-system_engineering-devops/0x15-api/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,39,1,0,1698061678,"~/alx-system_engineering-devops/0x15-api/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,39,1,0,1698061678,"~/alx-system_engineering-devops/0x15-api/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,39,1,0,1698061678,"~/alx-system_engineering-devops/0x15-api/README.md"
+-'  1  0  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,39,1,0,1698061678,"~/alx-system_engineering-devops/0x15-api/README.md"
+-'  1  49  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,39,1,49,1698056547,"~/alx-system_engineering-devops/0x15-api/README.md"
+-'  1  49  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,39,1,49,1698056547,"~/alx-system_engineering-devops/0x15-api/README.md"
+-'  1  49  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,39,1,49,1698056547,"~/alx-system_engineering-devops/0x15-api/README.md"
+-'  1  49  ~/alx-system_engineering-devops/0x15-api/README.md
+|4,39,1,49,1698056547,"~/alx-system_engineering-devops/0x15-api/README.md"
 -'  1  49  ~/alx-system_engineering-devops/0x15-api/README.md
 |4,39,1,49,1698056547,"~/alx-system_engineering-devops/0x15-api/README.md"
 -'  1  49  ~/alx-system_engineering-devops/0x15-api/README.md
@@ -178,6 +208,70 @@ $
 |4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
 -'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
 |4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  7  24  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,7,24,1697808159,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
+-'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
+|4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
 -'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
 |4,39,1,0,1697808134,"~/AirBnB_clone_v2/web_flask/4-number_route.py"
 -'  1  0  ~/AirBnB_clone_v2/web_flask/4-number_route.py
@@ -224,102 +318,15 @@ $
 |4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
 -'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
 |4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  7  23  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,7,23,1697807905,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
--'  1  0  ~/AirBnB_clone_v2/web_flask/3-python_route.py
-|4,39,1,0,1697807865,"~/AirBnB_clone_v2/web_flask/3-python_route.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/MERGE_MSG
+	*	1698341260	0
+	"	1	65
+	^	1	66
+	.	1	66
+	+	1	66
 
 > ~/AirBnB_clone_v3/README.md
 	*	1698339659	0
@@ -1101,11 +1108,3 @@ $
 	.	12	43
 	+	10	43
 	+	12	43
-
-> ~/alx-higher_level_programming/.git/COMMIT_EDITMSG
-	*	1692194633	0
-	"	1	7
-	^	1	8
-	.	1	7
-	+	2	0
-	+	1	7
